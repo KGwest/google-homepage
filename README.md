@@ -1,0 +1,1 @@
+This project will consist of making a google clone. This will require me to put HTML,CSS and potentially Javascript to use. So far, I have created a Ruby on Rails application (that I am not entirely sure of its function), gained a very rudimentary understanding of Bash scripting on a Linux system (Ubuntu) and dual booted my Lenovo laptop with Windows 10 and Ubuntu.
