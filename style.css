@@ -1,0 +1,29 @@
+header{
+  font-family: sans-serif;"Helvetica";
+  color: black;
+  background-color: white;
+}
+#topnav{
+  font-family: sans-serif;"Helvetica";
+  color: black;
+  background-color: white;
+}
+#Google-Search{
+  font-family: sans-serif;"Helvetica";
+  color: blue,red,yellow,blue,green,red;
+  background-color: white;
+}
+#Feelin-Lucky{
+  font-family: sans-serif;"Helvetica";
+  color: black;
+  font-size: 10pt;
+  background-color: white;
+}
+#footer{
+  font-family: sans-serif;"Helvetica";
+  color: black;
+  font-size: 10pt;
+  background-color: white;
+  border-color: grey;
+  background-color:# #cdb9b5;
+}
