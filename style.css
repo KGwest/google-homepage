@@ -1,48 +1,54 @@
 html{
-  font-family: arial,sans-serif;
+  font-family:arial,sans-serif;
+  background-color:white;
+  height:100%;
+  margin-top:89px;
+
 }
 
 head{
-  font: inherit;
-  color: black;
-  background-color: white;
+  font:inherit;
+  color:black;
+  list-style-type:none;
+  list-style-type:upper-roman;
 }
-#top-container{
-  font: inherit;
-  color: black;
-  background-color: white;
-  list-style-type: none;
-  list-style-type: upper-roman;
-  margin: 0;
-  padding: 0;
 
+title{
+  display: none;
 }
+
 h1{
-  font: inherit;
-  font-size: 20 pt;
-  color: blue,red,yellow,blue,green,red;
-  background-color: white;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  font:inherit;
+  font-size:30px;
+  text-align:justify;
+  color:blue red yellow blue green;
+  list-style-type:none;
 }
-h2{
-  font: inherit;
-  color: black;
-  font-size: 5pt;
-  background-color: white;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+
+body{
+  font:inherit;
+  text-align:center;
+  color:black;
+  margin:30px;
+  font-size:10px;
+  list-style-type:none;
 }
-#bottom-container{
-  font: inherit;
-  color: black;
-  font-size: 10pt;
-  background-color: white;
-  border-color: grey;
-  background-color:# #cdb9b5;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+
+p{
+  font:inherit;
+  text-align:right;
+  color:black;
+  margin:30px;
+  font-size:10px;
+  list-style-type:none;
+}
+
+#bottomcontainer{
+  font:inherit;
+  color:black;
+  font-size:10pt;
+  background-color:white;
+  border-color:grey;
+  background-color:#cdb9b5;
+  list-style-type:none;
 }
