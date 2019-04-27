@@ -1,10 +1,14 @@
-header{
-  font-family: sans-serif;"Helvetica";
+html{
+  font-family: arial,sans-serif;
+}
+
+head{
+  font: inherit;
   color: black;
   background-color: white;
 }
 #top-container{
-  font-family: sans-serif;"Helvetica";
+  font: inherit;
   color: black;
   background-color: white;
   list-style-type: none;
@@ -14,7 +18,7 @@ header{
 
 }
 h1{
-  font-family: sans-serif;"Helvetica";
+  font: inherit;
   font-size: 20 pt;
   color: blue,red,yellow,blue,green,red;
   background-color: white;
@@ -23,7 +27,7 @@ h1{
   padding: 0;
 }
 h2{
-  font-family: sans-serif;"Helvetica";
+  font: inherit;
   color: black;
   font-size: 5pt;
   background-color: white;
@@ -32,7 +36,7 @@ h2{
   padding: 0;
 }
 #bottom-container{
-  font-family: sans-serif;"Helvetica";
+  font: inherit;
   color: black;
   font-size: 10pt;
   background-color: white;
