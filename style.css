@@ -12,7 +12,7 @@ header{
   padding: 0;
 
 }
-#Google-Search{
+h1{
   font-family: sans-serif;"Helvetica";
   color: blue,red,yellow,blue,green,red;
   background-color: white;
@@ -20,7 +20,7 @@ header{
   margin: 0;
   padding: 0;
 }
-#Feelin-Lucky{
+h2{
   font-family: sans-serif;"Helvetica";
   color: black;
   font-size: 10pt;
