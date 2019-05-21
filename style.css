@@ -1,4 +1,4 @@
-html{
+html {
   font-family:arial,sans-serif;
   background-color:white;
   height:100%;
@@ -6,26 +6,22 @@ html{
 
 }
 
-head{
+head {
   font:inherit;
   color:black;
   list-style-type:none;
   list-style-type:upper-roman;
 }
 
-title{
-  display: none;
-}
-
-h1{
+h1 {
   font:inherit;
   font-size:30px;
   text-align:justify;
-  color:blue red yellow blue green;
+  color:blue, red, yellow, blue, green;
   list-style-type:none;
 }
 
-body{
+body {
   font:inherit;
   text-align:center;
   color:black;
@@ -34,16 +30,27 @@ body{
   list-style-type:none;
 }
 
-p{
+p {
   font:inherit;
-  text-align:right;
+  text-align:center;
   color:black;
   margin:30px;
   font-size:10px;
   list-style-type:none;
 }
 
-#bottomcontainer{
+.topnav {
+  font:inherit;
+  color:black;
+  font-size:10pt;
+  list-style-type: none;
+  background-color:white;
+  border-color:grey;
+  background-color:#cdb9b5;
+  list-style-type:none;
+}
+
+.bottomcontainer {
   font:inherit;
   color:black;
   font-size:10pt;
