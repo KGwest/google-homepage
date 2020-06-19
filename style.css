@@ -1,61 +1,63 @@
-html {
-  font-family:arial,sans-serif;
-  background-color:white;
-  height:100%;
-  margin-top:89px;
-
-}
-
-head {
-  font:inherit;
-  color:black;
-  list-style-type:none;
-  list-style-type:upper-roman;
-}
-
-h1 {
-  font:inherit;
-  font-size:30px;
-  text-align:justify;
-  color:blue, red, yellow, blue, green;
-  list-style-type:none;
+Html {
+  font-family: arial,sans-serif;
+  background-color: white;
+  height: 100%;
+  color: black;
+  list-style-type: none;
 }
 
 body {
-  font:inherit;
-  text-align:center;
-  color:black;
-  margin:30px;
-  font-size:10px;
-  list-style-type:none;
+  width: 40%;
+  background-color: white;
+  text-align: absolute, center;
+  position: center;
 }
 
 p {
-  font:inherit;
-  text-align:center;
-  color:black;
-  margin:30px;
-  font-size:10px;
-  list-style-type:none;
+  font: arial;
+  text-align: center;
+  position: center;
+  color: black;
+  height: 50%;
+  font-size: 20px;
+  list-style-type: none;
 }
 
 .topnav {
-  font:inherit;
-  color:black;
-  font-size:10pt;
+  font: arial;
+  color: black;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  text-align: justify;
+  font-size: 10pt
   list-style-type: none;
-  background-color:white;
-  border-color:grey;
-  background-color:#cdb9b5;
-  list-style-type:none;
+  background-color: white;
+  border-color: grey;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  float: center;
+  text-decoration: none;
+  display: inline;
 }
 
-.bottomcontainer {
-  font:inherit;
-  color:black;
-  font-size:10pt;
-  background-color:white;
-  border-color:grey;
-  background-color:#cdb9b5;
-  list-style-type:none;
+.bottom_container {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  font: arial;
+  text-align: justify;
+  color: grey;
+  font-size: 10pt;
+  border-color: grey;
+  background-color: #fff2df;
+  list-style-type: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  float: center;
+  display: inline;
 }
