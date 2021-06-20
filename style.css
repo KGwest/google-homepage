@@ -2,62 +2,44 @@ Html {
   font-family: arial,sans-serif;
   background-color: white;
   height: 100%;
-  color: black;
-  list-style-type: none;
-}
-
-body {
-  width: 40%;
-  background-color: white;
-  text-align: absolute, center;
-  position: center;
-}
-
-p {
-  font: arial;
-  text-align: center;
-  position: center;
-  color: black;
-  height: 50%;
-  font-size: 20px;
-  list-style-type: none;
 }
 
 .topnav {
   font: arial;
+  width: 50px;
   color: black;
-  position: fixed;
-  left: 0px;
-  top: 0px;
-  width: 100%;
-  text-align: justify;
-  font-size: 10pt
-  list-style-type: none;
-  background-color: white;
-  border-color: grey;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  float: center;
-  text-decoration: none;
+  text-align: center;
+  font-size: 10pt;
   display: inline;
+  padding-bottom: 10%;
+  list-style-type: none;
+  text-decoration: none;
+  list-style-position: 
+}
+
+.logo {
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.middle {
+  font: arial;
+  text-align: center;
+  color: black;
+  top: 500px;
+  font-size: 20px;
+  list-style-type: none;
 }
 
 .bottom_container {
-  position: fixed;
-  left: 0px;
-  bottom: 0px;
-  width: 100%;
+  position: bottom;
   font: arial;
-  text-align: justify;
+  text-align: center;
   color: grey;
   font-size: 10pt;
   border-color: grey;
   background-color: #fff2df;
   list-style-type: none;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  float: center;
   display: inline;
 }
